@@ -1,0 +1,49 @@
+Mon, 9:00AM, 1, Physics, Teacher1, Room1
+Mon, 9:55AM, 2, Chemistry, Teacher2, Room1
+Mon, 11:10AM, 3, Maths, Teacher3, Room1
+Mon, 12:05PM, 4, Biology, Teacher4, Room1
+Mon, 60, ,Break, , 
+Mon, 2:00PM, 5, ComputerLab, Teacher5, Lab1
+Mon, 2:55PM, 6, ComputerLab, Teacher5, Lab1
+Mon, 3:50PM, 7,Games, ,
+Tue, 9:00AM, 1, Physics, Teacher1, Room1
+Tue, 9:55AM, 2, Chemistry, Teacher2, Room1
+Tue, 11:10AM, 3, Maths, Teacher3, Room1
+Tue, 12:05PM, 4, Biology, Teacher4, Room1
+Tue, 60, ,Break, , 
+Tue, 2:00PM, 5, ComputerLab, Teacher5, Lab1
+Tue, 2:55PM, 6, ComputerLab, Teacher5, Lab1
+Tue, 3:50PM, 7,Games
+Wed, 9:00AM, 1, Physics, Teacher1, Room1
+Wed, 9:55AM, 2, Chemistry, Teacher2, Room1
+Wed, 11:10AM, 3, Maths, Teacher3, Room1
+Wed, 12:05PM, 4, Biology, Teacher4, Room1
+Wed, 60, ,Break, , 
+Wed, 2:00PM, 5, ComputerLab, Teacher5, Lab1
+Wed, 2:55PM, 6, ComputerLab, Teacher5, Lab1
+Wed, 3:50PM, 7,Games
+Thu, 9:00AM, 1, Physics, Teacher1, Room1
+Thu, 9:55AM, 2, Chemistry, Teacher2, Room1
+Thu, 11:10AM, 3, Maths, Teacher3, Room1
+Thu, 12:05PM, 4, Biology, Teacher4, Room1
+Thu, 60, ,Break, , 
+Thu, 2:00PM, 5, ComputerLab, Teacher5, Lab1
+Thu, 2:55PM, 6, ComputerLab, Teacher5, Lab1
+Thu, 3:50PM, 7,Games
+Fri, 9:00AM, 1, Physics, Teacher1, Room1
+Fri, 9:55AM, 2, Chemistry, Teacher2, Room1
+Fri, 11:10AM, 3, Maths, Teacher3, Room1
+Fri, 12:05PM, 4, Biology, Teacher4, Room1
+Fri, 60, ,Break, , 
+Fri, 2:00PM, 5, ComputerLab, Teacher5, Lab1
+Fri, 2:55PM, 6, ComputerLab, Teacher5, Lab1
+Fri, 3:50PM, 7,Games
+Sat, 9:00AM, 1, Physics, Teacher1, Room1
+Sat, 9:55AM, 2, Chemistry, Teacher2, Room1
+Sat, 11:10AM, 3, Maths, Teacher3, Room1
+Sat, 12:05PM, 4, Biology, Teacher4, Room1
+Sat, 60, ,Break, , 
+Sat, 2:00PM, 5, ComputerLab, Teacher5, Lab1
+Sat, 2:55PM, 6, ComputerLab, Teacher5, Lab1
+Sat, 3:50PM, 7,Games
+Sun, Holiday
